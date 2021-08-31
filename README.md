@@ -1,4 +1,5 @@
 First week boot camp assignment. 
+https://tomihau.github.io/week1project/
 
 Changing hmtl to be easier to read with semantics.
 Taking out unnecessary/redundant code in both css and html.
